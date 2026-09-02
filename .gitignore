@@ -1,0 +1,14 @@
+[Bb]uild/
+[Oo]ut/
+vs*/
+
+.vs/
+.vscode/
+.xmake/
+.cache/
+.idea/
+
+/*.bat
+/*.zip
+/*.7z
+/*.rar
